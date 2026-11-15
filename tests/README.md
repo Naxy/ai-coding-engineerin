@@ -11,3 +11,5 @@
 | React + antd 5 | TypeScript 构建、React Hooks、Form、Table、Modal 与 antd 5 API |
 
 CI 工作流会在每次 Skill 分支变更时运行上述检查。
+
+除技术栈冒烟测试外，仓库还记录了脱敏真实项目验证，见[真实项目验证记录](REAL-PROJECT-VALIDATION.md)。该记录与 fixture 冒烟测试分开统计，不代表生产级验收。

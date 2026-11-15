@@ -29,4 +29,4 @@
 - `.github/workflows/validate-skill.yml`：自动校验。
 
 ## 版本与状态
-当前版本为 V1.0.0。结构校验与技术栈冒烟测试已纳入 GitHub Actions；测试范围和已知限制见 [技术栈实测报告](tests/TEST-REPORT.md)。实际使用时仍需以目标项目的技术版本、工程约定和验证结果为准。
+当前版本为 V1.0.0。结构校验与技术栈冒烟测试已纳入 GitHub Actions；另已完成一轮脱敏订单核验/对账类业务系统验证。验证范围、结果和限制见[技术栈实测报告](tests/TEST-REPORT.md)与[真实项目验证记录](tests/REAL-PROJECT-VALIDATION.md)。这轮验证仅说明 Skill 在所覆盖的项目与任务范围内可用，不代表全面生产级验证；实际使用时仍需以目标项目的技术版本、工程约定和验证结果为准。
